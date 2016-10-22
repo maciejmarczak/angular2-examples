@@ -1,0 +1,6 @@
+form.ui.segment,
+div.ui.grid.posts {
+  margin: 50px auto;
+  overflow: auto;
+  width: 70%;
+}
